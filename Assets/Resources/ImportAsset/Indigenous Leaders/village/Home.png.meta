@@ -1,0 +1,321 @@
+fileFormatVersion: 2
+guid: 1859273ba02150848821ef8c57840e14
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7437203668993607506
+    second: ChatGPT Image Oct 7, 2026, 09_47_26 PM_0
+  - first:
+      213: 4095397898031704939
+    second: ChatGPT Image Oct 7, 2026, 09_47_26 PM_1
+  - first:
+      213: 1288695631972226966
+    second: ChatGPT Image Oct 7, 2026, 09_47_26 PM_2
+  - first:
+      213: -2635476754501047815
+    second: ChatGPT Image Oct 7, 2026, 09_47_26 PM_3
+  - first:
+      213: -6790277339247937428
+    second: ChatGPT Image Oct 7, 2026, 09_47_26 PM_4
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 150
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Iroquois
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 556
+        width: 386
+        height: 389
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2ee7eb055f265a42ad429f567d81c07
+      internalID: 244432256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sioux  Lakota
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 536
+        width: 378
+        height: 411
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2705d3478af5a694386bbf622dfb7a65
+      internalID: -555214729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cherokee
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 524
+        width: 445
+        height: 424
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49c10689bfa49464194a83a29306d27f
+      internalID: -626060605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Apache
+      rect:
+        serializedVersion: 2
+        x: 1218
+        y: 505
+        width: 314
+        height: 438
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 531aea04f0a3ccf4f86a2a3221c6ec19
+      internalID: -1418769145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aztec  Mexica
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 174
+        width: 407
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a70a7da3c86ca44fb76988afe3782e9
+      internalID: -844438910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maya
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 83
+        width: 348
+        height: 446
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba66b2f0c47560c43a1a3ac06b047ddf
+      internalID: 1635938146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inca
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 74
+        width: 379
+        height: 440
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a499844059a499f41a649027db34a8b3
+      internalID: 943518847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tupi
+      rect:
+        serializedVersion: 2
+        x: 1158
+        y: 135
+        width: 378
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e546cab1e47413d4fa41ec45ef611b70
+      internalID: -639700763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5aab43f5a97e5ca42ae3e525e9d205f2
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Apache: -1418769145
+      Aztec  Mexica: -844438910
+      ChatGPT Image Oct 7, 2026, 09_47_26 PM_0: 7437203668993607506
+      ChatGPT Image Oct 7, 2026, 09_47_26 PM_1: 4095397898031704939
+      ChatGPT Image Oct 7, 2026, 09_47_26 PM_2: 1288695631972226966
+      ChatGPT Image Oct 7, 2026, 09_47_26 PM_3: -2635476754501047815
+      ChatGPT Image Oct 7, 2026, 09_47_26 PM_4: -6790277339247937428
+      Cherokee: -626060605
+      Inca: 943518847
+      Iroquois: 244432256
+      Maya: 1635938146
+      Sioux  Lakota: -555214729
+      Tupi: -639700763
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

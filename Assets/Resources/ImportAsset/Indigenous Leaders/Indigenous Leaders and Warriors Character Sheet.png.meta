@@ -1,0 +1,396 @@
+fileFormatVersion: 2
+guid: 74097bbb9d9501a42b2b87429dfea1e5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2136325284971295877
+    second: Indigenous Leaders and Warriors Character Sheet_0
+  - first:
+      213: -4772816987366302346
+    second: Indigenous Leaders and Warriors Character Sheet_1
+  - first:
+      213: 3724670275668429095
+    second: Indigenous Leaders and Warriors Character Sheet_2
+  - first:
+      213: 4078861789673272655
+    second: Indigenous Leaders and Warriors Character Sheet_3
+  - first:
+      213: 5647729658368031710
+    second: Indigenous Leaders and Warriors Character Sheet_4
+  - first:
+      213: 3756199115485949238
+    second: Indigenous Leaders and Warriors Character Sheet_5
+  - first:
+      213: 2622744916424740839
+    second: Indigenous Leaders and Warriors Character Sheet_6
+  - first:
+      213: -3082738196318362338
+    second: Indigenous Leaders and Warriors Character Sheet_7
+  - first:
+      213: -3442989278927450290
+    second: Indigenous Leaders and Warriors Character Sheet_8
+  - first:
+      213: -73451196369559935
+    second: Indigenous Leaders and Warriors Character Sheet_9
+  - first:
+      213: 5503514586655914709
+    second: Indigenous Leaders and Warriors Character Sheet_10
+  - first:
+      213: -8819977736282548124
+    second: Indigenous Leaders and Warriors Character Sheet_11
+  - first:
+      213: 2190769360284515538
+    second: Indigenous Leaders and Warriors Character Sheet_12
+  - first:
+      213: -7329786936833402720
+    second: Indigenous Leaders and Warriors Character Sheet_13
+  - first:
+      213: 2327685431778651129
+    second: Indigenous Leaders and Warriors Character Sheet_14
+  - first:
+      213: 3181348685251959978
+    second: Indigenous Leaders and Warriors Character Sheet_15
+  - first:
+      213: 1125901495461594520
+    second: Indigenous Leaders and Warriors Character Sheet_16
+  - first:
+      213: 4104448342074383943
+    second: Indigenous Leaders and Warriors Character Sheet_17
+  - first:
+      213: -6805672367980733753
+    second: Indigenous Leaders and Warriors Character Sheet_18
+  - first:
+      213: 6528267945232599219
+    second: Indigenous Leaders and Warriors Character Sheet_19
+  - first:
+      213: -4172540247657738830
+    second: Indigenous Leaders and Warriors Character Sheet_20
+  - first:
+      213: 8333815582288583407
+    second: Indigenous Leaders and Warriors Character Sheet_21
+  - first:
+      213: -5882026115096065486
+    second: Indigenous Leaders and Warriors Character Sheet_22
+  - first:
+      213: 3528264877296978315
+    second: Indigenous Leaders and Warriors Character Sheet_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Hiawatha
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 445
+        width: 277
+        height: 436
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58436672780c5ad10800000000000000
+      internalID: 2136325284971295877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sitting Bull
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 438
+        width: 362
+        height: 449
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b63679595358c67478e0a7e4a5432a4b
+      internalID: -478967733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moytoy of Tellico
+      rect:
+        serializedVersion: 2
+        x: 935
+        y: 442
+        width: 269
+        height: 438
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f93ba13d42530c4d850c90cf3552a4a
+      internalID: 1200507326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mangas Coloradas
+      rect:
+        serializedVersion: 2
+        x: 1428
+        y: 437
+        width: 305
+        height: 448
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f0ee9d2ce8c02d49922418d09a6efc1
+      internalID: 926250273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moctezuma II
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 0
+        width: 264
+        height: 443
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 097f04885660e59438d5a2b8c04ec142
+      internalID: 390557446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: K'inich Janaab' Pakal
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 1
+        width: 293
+        height: 433
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a98f94cd0b1d32341ac9edcf7e795bea
+      internalID: -1240955656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pachacuti
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 3
+        width: 233
+        height: 437
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f40b7f77fa1ff6449db625918f94392
+      internalID: 113895929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cunhambebe
+      rect:
+        serializedVersion: 2
+        x: 1445
+        y: 5
+        width: 258
+        height: 435
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c53a130155bf0c942a22eeb7a16b803c
+      internalID: -1654016703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: d793c2af81597234fa867b52b4feee22
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Cunhambebe: -1654016703
+      Hiawatha: 2136325284971295877
+      Indigenous Leaders and Warriors Character Sheet_1: -4772816987366302346
+      Indigenous Leaders and Warriors Character Sheet_10: 5503514586655914709
+      Indigenous Leaders and Warriors Character Sheet_11: -8819977736282548124
+      Indigenous Leaders and Warriors Character Sheet_12: 2190769360284515538
+      Indigenous Leaders and Warriors Character Sheet_13: -7329786936833402720
+      Indigenous Leaders and Warriors Character Sheet_14: 2327685431778651129
+      Indigenous Leaders and Warriors Character Sheet_15: 3181348685251959978
+      Indigenous Leaders and Warriors Character Sheet_16: 1125901495461594520
+      Indigenous Leaders and Warriors Character Sheet_17: 4104448342074383943
+      Indigenous Leaders and Warriors Character Sheet_18: -6805672367980733753
+      Indigenous Leaders and Warriors Character Sheet_19: 6528267945232599219
+      Indigenous Leaders and Warriors Character Sheet_2: 3724670275668429095
+      Indigenous Leaders and Warriors Character Sheet_20: -4172540247657738830
+      Indigenous Leaders and Warriors Character Sheet_21: 8333815582288583407
+      Indigenous Leaders and Warriors Character Sheet_22: -5882026115096065486
+      Indigenous Leaders and Warriors Character Sheet_23: 3528264877296978315
+      Indigenous Leaders and Warriors Character Sheet_3: 4078861789673272655
+      Indigenous Leaders and Warriors Character Sheet_4: 5647729658368031710
+      Indigenous Leaders and Warriors Character Sheet_5: 3756199115485949238
+      Indigenous Leaders and Warriors Character Sheet_6: 2622744916424740839
+      Indigenous Leaders and Warriors Character Sheet_7: -3082738196318362338
+      Indigenous Leaders and Warriors Character Sheet_8: -3442989278927450290
+      Indigenous Leaders and Warriors Character Sheet_9: -73451196369559935
+      K'inich Janaab' Pakal: -1240955656
+      Mangas Coloradas: 926250273
+      Moctezuma II: 390557446
+      Moytoy of Tellico: 1200507326
+      Pachacuti: 113895929
+      Sitting Bull: -478967733
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

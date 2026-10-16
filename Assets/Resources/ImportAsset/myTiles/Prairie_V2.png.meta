@@ -1,0 +1,2873 @@
+fileFormatVersion: 2
+guid: 4bc291096be109e47a60b97438859670
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8688169262700757374
+    second: Prairie_V2_0
+  - first:
+      213: 3643420142597366164
+    second: Prairie_V2_1
+  - first:
+      213: -5893757029926643353
+    second: Prairie_V2_2
+  - first:
+      213: -8152914111178031320
+    second: Prairie_V2_3
+  - first:
+      213: -3559774526334361349
+    second: Prairie_V2_4
+  - first:
+      213: -5159807633898908759
+    second: Prairie_V2_5
+  - first:
+      213: -7329488704977217491
+    second: Prairie_V2_6
+  - first:
+      213: 1912787935159618866
+    second: Prairie_V2_7
+  - first:
+      213: 7921194806289557267
+    second: Prairie_V2_8
+  - first:
+      213: -2531061453291844172
+    second: Prairie_V2_9
+  - first:
+      213: 8198426681086122708
+    second: Prairie_V2_10
+  - first:
+      213: 6309439832440405827
+    second: Prairie_V2_11
+  - first:
+      213: 2922493156994657650
+    second: Prairie_V2_12
+  - first:
+      213: 6634957104731618403
+    second: Prairie_V2_13
+  - first:
+      213: -7520022677292043932
+    second: Prairie_V2_14
+  - first:
+      213: -865718992686949209
+    second: Prairie_V2_15
+  - first:
+      213: 2608299356265869981
+    second: Prairie_V2_16
+  - first:
+      213: -5379693958982842572
+    second: Prairie_V2_17
+  - first:
+      213: -3167904859295348418
+    second: Prairie_V2_18
+  - first:
+      213: -2647865520094496074
+    second: Prairie_V2_19
+  - first:
+      213: 5186215860357124681
+    second: Prairie_V2_20
+  - first:
+      213: 8068503472132795565
+    second: Prairie_V2_21
+  - first:
+      213: -7457626334807601819
+    second: Prairie_V2_22
+  - first:
+      213: 2981845958966895584
+    second: Prairie_V2_23
+  - first:
+      213: 3685600542505996428
+    second: Prairie_V2_24
+  - first:
+      213: 9123936634925123878
+    second: Prairie_V2_25
+  - first:
+      213: 2400960872505169105
+    second: Prairie_V2_26
+  - first:
+      213: 353498014789240968
+    second: Prairie_V2_27
+  - first:
+      213: 7810311525868979970
+    second: Prairie_V2_28
+  - first:
+      213: -1315328829400105708
+    second: Prairie_V2_29
+  - first:
+      213: 1006617201430568672
+    second: Prairie_V2_30
+  - first:
+      213: -4921844208503514346
+    second: Prairie_V2_31
+  - first:
+      213: 6151629704953666260
+    second: Prairie_V2_32
+  - first:
+      213: -7769274441197750122
+    second: Prairie_V2_33
+  - first:
+      213: 7674902235159158326
+    second: Prairie_V2_34
+  - first:
+      213: 553696882129107256
+    second: Prairie_V2_35
+  - first:
+      213: -5003857810072734382
+    second: Prairie_V2_36
+  - first:
+      213: -5626255420526708710
+    second: Prairie_V2_37
+  - first:
+      213: -4058157099995101406
+    second: Prairie_V2_38
+  - first:
+      213: 1504110284503228735
+    second: Prairie_V2_39
+  - first:
+      213: -7796956302702820702
+    second: Prairie_V2_40
+  - first:
+      213: 5058636193457113774
+    second: Prairie_V2_41
+  - first:
+      213: 4662392628690128985
+    second: Prairie_V2_42
+  - first:
+      213: 3211624369573482355
+    second: Prairie_V2_43
+  - first:
+      213: 21322779471032896
+    second: Prairie_V2_44
+  - first:
+      213: -2290657988103241843
+    second: Prairie_V2_45
+  - first:
+      213: -2517958650715162375
+    second: Prairie_V2_46
+  - first:
+      213: 4227915630622675674
+    second: Prairie_V2_47
+  - first:
+      213: 3511502302603886328
+    second: Prairie_V2_48
+  - first:
+      213: 6517570100791030080
+    second: Prairie_V2_49
+  - first:
+      213: -8749831953875222904
+    second: Prairie_V2_50
+  - first:
+      213: 3331142602670666145
+    second: Prairie_V2_51
+  - first:
+      213: -2793198052380143412
+    second: Prairie_V2_52
+  - first:
+      213: 6204814465344667907
+    second: Prairie_V2_53
+  - first:
+      213: 1848525740602151368
+    second: Prairie_V2_54
+  - first:
+      213: 8107862747847047856
+    second: Prairie_V2_55
+  - first:
+      213: 7776632441110134383
+    second: Prairie_V2_56
+  - first:
+      213: 6193661013070065124
+    second: Prairie_V2_57
+  - first:
+      213: 9079932441657539699
+    second: Prairie_V2_58
+  - first:
+      213: -1558344790347673814
+    second: Prairie_V2_59
+  - first:
+      213: -7820655716532999111
+    second: Prairie_V2_60
+  - first:
+      213: -6337708828627372338
+    second: Prairie_V2_61
+  - first:
+      213: -6465155604230471005
+    second: Prairie_V2_62
+  - first:
+      213: 4438082775663711978
+    second: Prairie_V2_63
+  - first:
+      213: -7219294400901853656
+    second: Prairie_V2_64
+  - first:
+      213: -2763602316887250959
+    second: Prairie_V2_65
+  - first:
+      213: 1000165136729430718
+    second: Prairie_V2_66
+  - first:
+      213: 8020793667938900265
+    second: Prairie_V2_67
+  - first:
+      213: 3907964639794736375
+    second: Prairie_V2_68
+  - first:
+      213: -5112197040691008034
+    second: Prairie_V2_69
+  - first:
+      213: 7538732361519175360
+    second: Prairie_V2_70
+  - first:
+      213: 8021140806912066270
+    second: Prairie_V2_71
+  - first:
+      213: -3226898571513175819
+    second: Prairie_V2_72
+  - first:
+      213: -4571008811418627445
+    second: Prairie_V2_73
+  - first:
+      213: -586688798216479759
+    second: Prairie_V2_74
+  - first:
+      213: -1140789735442442551
+    second: Prairie_V2_75
+  - first:
+      213: 2612837095790300508
+    second: Prairie_V2_76
+  - first:
+      213: 4921115138366060857
+    second: Prairie_V2_77
+  - first:
+      213: 3905487600661670258
+    second: Prairie_V2_78
+  - first:
+      213: 1824929149098592487
+    second: Prairie_V2_79
+  - first:
+      213: -9150719568825615628
+    second: Prairie_V2_80
+  - first:
+      213: 2495010362621322844
+    second: Prairie_V2_81
+  - first:
+      213: 5647088476065220541
+    second: Prairie_V2_82
+  - first:
+      213: 375565537057250351
+    second: Prairie_V2_83
+  - first:
+      213: 5491540043695442088
+    second: Prairie_V2_84
+  - first:
+      213: -3889319040401781421
+    second: Prairie_V2_85
+  - first:
+      213: 2454332493222855406
+    second: Prairie_V2_86
+  - first:
+      213: 7845882593765730574
+    second: Prairie_V2_87
+  - first:
+      213: 961119539162214637
+    second: Prairie_V2_88
+  - first:
+      213: 2817171751338069192
+    second: Prairie_V2_89
+  - first:
+      213: 5673332069223117768
+    second: Prairie_V2_90
+  - first:
+      213: 450100762021301498
+    second: Prairie_V2_91
+  - first:
+      213: -6413203890808081470
+    second: Prairie_V2_92
+  - first:
+      213: 2556572524336021981
+    second: Prairie_V2_93
+  - first:
+      213: -606510580986712650
+    second: Prairie_V2_94
+  - first:
+      213: 1913234662003715035
+    second: Prairie_V2_95
+  - first:
+      213: 4989086765506051400
+    second: Prairie_V2_96
+  - first:
+      213: 2963402483478772855
+    second: Prairie_V2_97
+  - first:
+      213: -3682327289688997355
+    second: Prairie_V2_98
+  - first:
+      213: 609996684068943877
+    second: Prairie_V2_99
+  - first:
+      213: -2587921267553763326
+    second: Prairie_V2_100
+  - first:
+      213: 6811793491113365646
+    second: Prairie_V2_101
+  - first:
+      213: 4692857086789175263
+    second: Prairie_V2_102
+  - first:
+      213: -4397276675697405550
+    second: Prairie_V2_103
+  - first:
+      213: 6664774508942178326
+    second: Prairie_V2_104
+  - first:
+      213: 5509437163968373236
+    second: Prairie_V2_105
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 9
+  spritePivot: {x: 0.5, y: 0.43}
+  spritePixelsToUnits: 370
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Prairie_V2_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1431
+        width: 71
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e710fbb99e3929870800000000000000
+      internalID: 8688169262700757374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prairie_V2_1
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 1491
+        width: 43
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 491e407e057009230800000000000000
+      internalID: 3643420142597366164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prairie_V2_2
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 1373
+        width: 49
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 769d2ce253b253ea0800000000000000
+      internalID: -5893757029926643353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prairie_V2_3
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 1487
+        width: 33
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82fb6f6dfc70bde80800000000000000
+      internalID: -8152914111178031320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prairie_V2_4
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 1437
+        width: 61
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf02b55cde3299ec0800000000000000
+      internalID: -3559774526334361349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prairie_V2_5
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 1463
+        width: 23
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a35b187b4ea468b0800000000000000
+      internalID: -5159807633898908759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prairie_V2_6
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 1478
+        width: 33
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d28589a2bdc684a90800000000000000
+      internalID: -7329488704977217491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prairie_V2_7
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 1371
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23d87dd1e769b8a10800000000000000
+      internalID: 1912787935159618866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prairie_V2_8
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 1459
+        width: 51
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 317ee8145bcbded60800000000000000
+      internalID: 7921194806289557267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prairie_V2_9
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 1420
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bd0bd3b40ddfdcd0800000000000000
+      internalID: -2531061453291844172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prairie_V2_10
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 1455
+        width: 29
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4da193b11a9a6c170800000000000000
+      internalID: 8198426681086122708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prairie_V2_11
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1506
+        width: 45
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34f7f484912af8750800000000000000
+      internalID: 6309439832440405827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prairie_V2_12
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 1430
+        width: 39
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27d2d21da08ce8820800000000000000
+      internalID: 2922493156994657650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prairie_V2_13
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 1462
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36c7b7f455a141c50800000000000000
+      internalID: 6634957104731618403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prairie_V2_14
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 1455
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4613021c73383a790800000000000000
+      internalID: -7520022677292043932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prairie_V2_15
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 1463
+        width: 17
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7acd595b9295cf3f0800000000000000
+      internalID: -865718992686949209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prairie_V2_16
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 1425
+        width: 19
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d927b16f17a823420800000000000000
+      internalID: 2608299356265869981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prairie_V2_17
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 1446
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 437438ed8dc7755b0800000000000000
+      internalID: -5379693958982842572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prairie_V2_18
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 1478
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e39877390575904d0800000000000000
+      internalID: -3167904859295348418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prairie_V2_19
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 1469
+        width: 27
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ba33c5a654e04bd0800000000000000
+      internalID: -2647865520094496074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prairie_V2_20
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 1415
+        width: 41
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9425515e8d329f740800000000000000
+      internalID: 5186215860357124681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prairie_V2_21
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 1303
+        width: 67
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dac2b7db82519ff60800000000000000
+      internalID: 8068503472132795565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prairie_V2_22
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 1463
+        width: 19
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56dc1365c50318890800000000000000
+      internalID: -7457626334807601819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prairie_V2_23
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 1479
+        width: 43
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e3e727e915a16920800000000000000
+      internalID: 2981845958966895584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prairie_V2_24
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 1367
+        width: 177
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c809e009a22e52330800000000000000
+      internalID: 3685600542505996428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prairie_V2_25
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 1455
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62982ed570cbe9e70800000000000000
+      internalID: 9123936634925123878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prairie_V2_26
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 1440
+        width: 7
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d45845513de15120800000000000000
+      internalID: 2400960872505169105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prairie_V2_27
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 1463
+        width: 97
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88881505290e7e400800000000000000
+      internalID: 353498014789240968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prairie_V2_28
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 1423
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2074f84b3fcc36c60800000000000000
+      internalID: 7810311525868979970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prairie_V2_29
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 1411
+        width: 12
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41db6c806630fbde0800000000000000
+      internalID: -1315328829400105708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prairie_V2_30
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 1318
+        width: 77
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ee111ce20938fd00800000000000000
+      internalID: 1006617201430568672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prairie_V2_31
+      rect:
+        serializedVersion: 2
+        x: 982
+        y: 1399
+        width: 42
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61b9558f4c812bbb0800000000000000
+      internalID: -4921844208503514346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prairie_V2_32
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 1478
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4da1189bf9afe5550800000000000000
+      internalID: 6151629704953666260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prairie_V2_33
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1253
+        width: 97
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 698f2e12f0efd2490800000000000000
+      internalID: -7769274441197750122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prairie_V2_34
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 1399
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63e53846beab28a60800000000000000
+      internalID: 7674902235159158326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prairie_V2_35
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 1293
+        width: 49
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 839fb8471602fa700800000000000000
+      internalID: 553696882129107256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prairie_V2_36
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 1383
+        width: 45
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 255fc0455d9be8ab0800000000000000
+      internalID: -5003857810072734382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prairie_V2_37
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 1191
+        width: 125
+        height: 233
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a18b3e311868be1b0800000000000000
+      internalID: -5626255420526708710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prairie_V2_38
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 1367
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 227001c5e978ea7c0800000000000000
+      internalID: -4058157099995101406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prairie_V2_39
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1375
+        width: 29
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f31a3daa55cafd410800000000000000
+      internalID: 1504110284503228735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prairie_V2_40
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 1383
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a2c7208d85abc390800000000000000
+      internalID: -7796956302702820702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prairie_V2_41
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 1359
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eaa02fee0d2e33640800000000000000
+      internalID: 5058636193457113774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prairie_V2_42
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 1181
+        width: 127
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9509974b46524b040800000000000000
+      internalID: 4662392628690128985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prairie_V2_43
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 1351
+        width: 33
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37f4a64295bf19c20800000000000000
+      internalID: 3211624369573482355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prairie_V2_44
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 1351
+        width: 19
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 042bef774f0cb4000800000000000000
+      internalID: 21322779471032896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prairie_V2_45
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 1349
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8ff13d32b2f530e0800000000000000
+      internalID: -2290657988103241843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prairie_V2_46
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 1355
+        width: 33
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f83009a2f96e0dd0800000000000000
+      internalID: -2517958650715162375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prairie_V2_47
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 1397
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad216979dd29caa30800000000000000
+      internalID: 4227915630622675674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prairie_V2_48
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 1349
+        width: 23
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8febbae4dbc5bb030800000000000000
+      internalID: 3511502302603886328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prairie_V2_49
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1333
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0413b50a97f037a50800000000000000
+      internalID: 6517570100791030080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prairie_V2_50
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 1185
+        width: 57
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88eb7e0523a529680800000000000000
+      internalID: -8749831953875222904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prairie_V2_51
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 1277
+        width: 29
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a1fa584c889a3e20800000000000000
+      internalID: 3331142602670666145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prairie_V2_52
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 1327
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc0919c9b219c39d0800000000000000
+      internalID: -2793198052380143412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prairie_V2_53
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 1211
+        width: 49
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3010318b1edeb1650800000000000000
+      internalID: 6204814465344667907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prairie_V2_54
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 1303
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c1d1cefd5847a910800000000000000
+      internalID: 1848525740602151368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prairie_V2_55
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 1291
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0babb0d363ae48070800000000000000
+      internalID: 8107862747847047856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prairie_V2_56
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 1255
+        width: 51
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6ef529b0062ceb60800000000000000
+      internalID: 7776632441110134383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prairie_V2_57
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 1309
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ed2a3f30ed44f550800000000000000
+      internalID: 6193661013070065124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prairie_V2_58
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 1303
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37cfa89b276620e70800000000000000
+      internalID: 9079932441657539699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prairie_V2_59
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 1297
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2f0fbd6ba5af5ae0800000000000000
+      internalID: -1558344790347673814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prairie_V2_60
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 1183
+        width: 59
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93c2c69bf03777390800000000000000
+      internalID: -7820655716532999111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prairie_V2_61
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 1266
+        width: 35
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec6fec3266feb08a0800000000000000
+      internalID: -6337708828627372338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prairie_V2_62
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 1269
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a287385b372746a0800000000000000
+      internalID: -6465155604230471005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prairie_V2_63
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 1279
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae6173f35cc379d30800000000000000
+      internalID: 4438082775663711978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prairie_V2_64
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 1251
+        width: 87
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82e4749edf9efcb90800000000000000
+      internalID: -7219294400901853656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prairie_V2_65
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 1186
+        width: 39
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f72d71c556b5a9d0800000000000000
+      internalID: -2763602316887250959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prairie_V2_66
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 1237
+        width: 53
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebadc7b84ec41ed00800000000000000
+      internalID: 1000165136729430718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prairie_V2_67
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 1223
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 929533258559f4f60800000000000000
+      internalID: 8020793667938900265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prairie_V2_68
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 1221
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fca0c57221eb3630800000000000000
+      internalID: 3907964639794736375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prairie_V2_69
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1128
+        width: 51
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edd2fc780e3dd09b0800000000000000
+      internalID: -5112197040691008034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prairie_V2_70
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 1189
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c697111425fe9860800000000000000
+      internalID: 7538732361519175360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prairie_V2_71
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 1190
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed24269e011d05f60800000000000000
+      internalID: 8021140806912066270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prairie_V2_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1024
+        height: 1176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f0edb698d0c733d0800000000000000
+      internalID: -3226898571513175819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prairie_V2_73
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 1153
+        width: 15
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b82563a44b38090c0800000000000000
+      internalID: -4571008811418627445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prairie_V2_74
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 1117
+        width: 75
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fb1b9c75a9abd7f0800000000000000
+      internalID: -586688798216479759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prairie_V2_75
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 1155
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c69a8f97c91b20f0800000000000000
+      internalID: -1140789735442442551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prairie_V2_76
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 1139
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5d4b86ce79a24420800000000000000
+      internalID: 2612837095790300508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prairie_V2_77
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 1133
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9393b1925205b4440800000000000000
+      internalID: 4921115138366060857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prairie_V2_78
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 1127
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 279a128d744133630800000000000000
+      internalID: 3905487600661670258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prairie_V2_79
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 141
+        width: 7
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e807486463735910800000000000000
+      internalID: 1824929149098592487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prairie_V2_80
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 155
+        width: 47
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fafee4e80d120180800000000000000
+      internalID: -9150719568825615628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prairie_V2_81
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 68
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5666f6a4be00a220800000000000000
+      internalID: 2495010362621322844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prairie_V2_82
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 73
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db7c117ac0d7e5e40800000000000000
+      internalID: 5647088476065220541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prairie_V2_83
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 45
+        width: 103
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2c1d2abdd6463500800000000000000
+      internalID: 375565537057250351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prairie_V2_84
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 35
+        width: 61
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a8cc46039ed53c40800000000000000
+      internalID: 5491540043695442088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prairie_V2_85
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 49
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35d40b270fc560ac0800000000000000
+      internalID: -3889319040401781421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prairie_V2_86
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 61
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee24f33266a8f0220800000000000000
+      internalID: 2454332493222855406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prairie_V2_87
+      rect:
+        serializedVersion: 2
+        x: 978
+        y: 57
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e09a3d656ac22ec60800000000000000
+      internalID: 7845882593765730574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prairie_V2_88
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 31
+        width: 31
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de0737ee025965d00800000000000000
+      internalID: 961119539162214637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prairie_V2_89
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 28
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cc45c528ca981720800000000000000
+      internalID: 2817171751338069192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prairie_V2_90
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 25
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c330e65579bbbe40800000000000000
+      internalID: 5673332069223117768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prairie_V2_91
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 29
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afc896122441f3600800000000000000
+      internalID: 450100762021301498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prairie_V2_92
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 37
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c33b383a09bff6a0800000000000000
+      internalID: -6413203890808081470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prairie_V2_93
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 30
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd182936a25ca7320800000000000000
+      internalID: 2556572524336021981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prairie_V2_94
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 37
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bd65cb07dd3597f0800000000000000
+      internalID: -606510580986712650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prairie_V2_95
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 39
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdb22b0d9cc2d8a10800000000000000
+      internalID: 1913234662003715035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prairie_V2_96
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 39
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84d379bdafbcc3540800000000000000
+      internalID: 4989086765506051400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prairie_V2_97
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 37
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77c3342abde102920800000000000000
+      internalID: 2963402483478772855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prairie_V2_98
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 35
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5124c5ff6deb5ecc0800000000000000
+      internalID: -3682327289688997355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prairie_V2_99
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 32
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 508781490c4277800800000000000000
+      internalID: 609996684068943877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prairie_V2_100
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 31
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20087cc815bd51cd0800000000000000
+      internalID: -2587921267553763326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prairie_V2_101
+      rect:
+        serializedVersion: 2
+        x: 938
+        y: 33
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e805129f61a588e50800000000000000
+      internalID: 6811793491113365646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prairie_V2_102
+      rect:
+        serializedVersion: 2
+        x: 954
+        y: 41
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd74eb718a0602140800000000000000
+      internalID: 4692857086789175263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prairie_V2_103
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 21
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29112f5492cb9f2c0800000000000000
+      internalID: -4397276675697405550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prairie_V2_104
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 23
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 618b399ba190e7c50800000000000000
+      internalID: 6664774508942178326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prairie_V2_105
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 33
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f1abae09e3757c40800000000000000
+      internalID: 5509437163968373236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Prairie_V2_0: 8688169262700757374
+      Prairie_V2_1: 3643420142597366164
+      Prairie_V2_10: 8198426681086122708
+      Prairie_V2_100: -2587921267553763326
+      Prairie_V2_101: 6811793491113365646
+      Prairie_V2_102: 4692857086789175263
+      Prairie_V2_103: -4397276675697405550
+      Prairie_V2_104: 6664774508942178326
+      Prairie_V2_105: 5509437163968373236
+      Prairie_V2_11: 6309439832440405827
+      Prairie_V2_12: 2922493156994657650
+      Prairie_V2_13: 6634957104731618403
+      Prairie_V2_14: -7520022677292043932
+      Prairie_V2_15: -865718992686949209
+      Prairie_V2_16: 2608299356265869981
+      Prairie_V2_17: -5379693958982842572
+      Prairie_V2_18: -3167904859295348418
+      Prairie_V2_19: -2647865520094496074
+      Prairie_V2_2: -5893757029926643353
+      Prairie_V2_20: 5186215860357124681
+      Prairie_V2_21: 8068503472132795565
+      Prairie_V2_22: -7457626334807601819
+      Prairie_V2_23: 2981845958966895584
+      Prairie_V2_24: 3685600542505996428
+      Prairie_V2_25: 9123936634925123878
+      Prairie_V2_26: 2400960872505169105
+      Prairie_V2_27: 353498014789240968
+      Prairie_V2_28: 7810311525868979970
+      Prairie_V2_29: -1315328829400105708
+      Prairie_V2_3: -8152914111178031320
+      Prairie_V2_30: 1006617201430568672
+      Prairie_V2_31: -4921844208503514346
+      Prairie_V2_32: 6151629704953666260
+      Prairie_V2_33: -7769274441197750122
+      Prairie_V2_34: 7674902235159158326
+      Prairie_V2_35: 553696882129107256
+      Prairie_V2_36: -5003857810072734382
+      Prairie_V2_37: -5626255420526708710
+      Prairie_V2_38: -4058157099995101406
+      Prairie_V2_39: 1504110284503228735
+      Prairie_V2_4: -3559774526334361349
+      Prairie_V2_40: -7796956302702820702
+      Prairie_V2_41: 5058636193457113774
+      Prairie_V2_42: 4662392628690128985
+      Prairie_V2_43: 3211624369573482355
+      Prairie_V2_44: 21322779471032896
+      Prairie_V2_45: -2290657988103241843
+      Prairie_V2_46: -2517958650715162375
+      Prairie_V2_47: 4227915630622675674
+      Prairie_V2_48: 3511502302603886328
+      Prairie_V2_49: 6517570100791030080
+      Prairie_V2_5: -5159807633898908759
+      Prairie_V2_50: -8749831953875222904
+      Prairie_V2_51: 3331142602670666145
+      Prairie_V2_52: -2793198052380143412
+      Prairie_V2_53: 6204814465344667907
+      Prairie_V2_54: 1848525740602151368
+      Prairie_V2_55: 8107862747847047856
+      Prairie_V2_56: 7776632441110134383
+      Prairie_V2_57: 6193661013070065124
+      Prairie_V2_58: 9079932441657539699
+      Prairie_V2_59: -1558344790347673814
+      Prairie_V2_6: -7329488704977217491
+      Prairie_V2_60: -7820655716532999111
+      Prairie_V2_61: -6337708828627372338
+      Prairie_V2_62: -6465155604230471005
+      Prairie_V2_63: 4438082775663711978
+      Prairie_V2_64: -7219294400901853656
+      Prairie_V2_65: -2763602316887250959
+      Prairie_V2_66: 1000165136729430718
+      Prairie_V2_67: 8020793667938900265
+      Prairie_V2_68: 3907964639794736375
+      Prairie_V2_69: -5112197040691008034
+      Prairie_V2_7: 1912787935159618866
+      Prairie_V2_70: 7538732361519175360
+      Prairie_V2_71: 8021140806912066270
+      Prairie_V2_72: -3226898571513175819
+      Prairie_V2_73: -4571008811418627445
+      Prairie_V2_74: -586688798216479759
+      Prairie_V2_75: -1140789735442442551
+      Prairie_V2_76: 2612837095790300508
+      Prairie_V2_77: 4921115138366060857
+      Prairie_V2_78: 3905487600661670258
+      Prairie_V2_79: 1824929149098592487
+      Prairie_V2_8: 7921194806289557267
+      Prairie_V2_80: -9150719568825615628
+      Prairie_V2_81: 2495010362621322844
+      Prairie_V2_82: 5647088476065220541
+      Prairie_V2_83: 375565537057250351
+      Prairie_V2_84: 5491540043695442088
+      Prairie_V2_85: -3889319040401781421
+      Prairie_V2_86: 2454332493222855406
+      Prairie_V2_87: 7845882593765730574
+      Prairie_V2_88: 961119539162214637
+      Prairie_V2_89: 2817171751338069192
+      Prairie_V2_9: -2531061453291844172
+      Prairie_V2_90: 5673332069223117768
+      Prairie_V2_91: 450100762021301498
+      Prairie_V2_92: -6413203890808081470
+      Prairie_V2_93: 2556572524336021981
+      Prairie_V2_94: -606510580986712650
+      Prairie_V2_95: 1913234662003715035
+      Prairie_V2_96: 4989086765506051400
+      Prairie_V2_97: 2963402483478772855
+      Prairie_V2_98: -3682327289688997355
+      Prairie_V2_99: 609996684068943877
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,559 @@
+fileFormatVersion: 2
+guid: c249cbc9d0a7a244799686569a1a6a77
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -484813376700578370
+    second: Savannah_0
+  - first:
+      213: 7629128393885217947
+    second: Savannah_1
+  - first:
+      213: 9123481406774530556
+    second: Savannah_2
+  - first:
+      213: 6040023942920514084
+    second: Savannah_3
+  - first:
+      213: -7336364373929534114
+    second: Savannah_4
+  - first:
+      213: -9000638806767441765
+    second: Savannah_5
+  - first:
+      213: 3362902455601815561
+    second: Savannah_6
+  - first:
+      213: -123181514382629562
+    second: Savannah_7
+  - first:
+      213: 2635882703316673172
+    second: Savannah_8
+  - first:
+      213: -1937619371667178805
+    second: Savannah_9
+  - first:
+      213: 3751963088481978850
+    second: Savannah_10
+  - first:
+      213: -5507716781205132512
+    second: Savannah_11
+  - first:
+      213: 1405433727680981946
+    second: Savannah_12
+  - first:
+      213: 3462011067524664172
+    second: Savannah_13
+  - first:
+      213: -6649456852953848958
+    second: Savannah_14
+  - first:
+      213: 8859656975184596682
+    second: Savannah_15
+  - first:
+      213: -5169920194667902483
+    second: Savannah_16
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 9
+  spritePivot: {x: 0.51, y: 0.43}
+  spritePixelsToUnits: 370
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Savannah_0
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 1487
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb587637dc89549f0800000000000000
+      internalID: -484813376700578370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Savannah_1
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 1271
+        width: 391
+        height: 249
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b94ff577adb10e960800000000000000
+      internalID: 7629128393885217947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Savannah_2
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 1183
+        width: 293
+        height: 331
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf15dad400e1d9e70800000000000000
+      internalID: 9123481406774530556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Savannah_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1150
+        width: 289
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42aa1a056c972d350800000000000000
+      internalID: 6040023942920514084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Savannah_4
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 1191
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5d591db87fff2a90800000000000000
+      internalID: -7336364373929534114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Savannah_5
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 1191
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b98e70351be471380800000000000000
+      internalID: -9000638806767441765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Savannah_6
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 1287
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9006f6847fd6bae20800000000000000
+      internalID: 3362902455601815561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Savannah_7
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 1318
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6452458b01f5a4ef0800000000000000
+      internalID: -123181514382629562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Savannah_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1001
+        height: 1125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49269c86a59849420800000000000000
+      internalID: 2635882703316673172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Savannah_9
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 1109
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcabcd982713c15e0800000000000000
+      internalID: -1937619371667178805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Savannah_10
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 79
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e9885bdc86a11430800000000000000
+      internalID: 3751963088481978850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Savannah_11
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 79
+        width: 43
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02b6fc4c4c8a093b0800000000000000
+      internalID: -5507716781205132512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Savannah_12
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 58
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abb27cd678a118310800000000000000
+      internalID: 1405433727680981946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Savannah_13
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 45
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6b474039b88b0030800000000000000
+      internalID: 3462011067524664172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Savannah_14
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 18
+        width: 51
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 283266af83268b3a0800000000000000
+      internalID: -6649456852953848958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Savannah_15
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 41
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ace80b51413d3fa70800000000000000
+      internalID: 8859656975184596682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Savannah_16
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 15
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de983bf69f0c048b0800000000000000
+      internalID: -5169920194667902483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Savannah_0: -484813376700578370
+      Savannah_1: 7629128393885217947
+      Savannah_10: 3751963088481978850
+      Savannah_11: -5507716781205132512
+      Savannah_12: 1405433727680981946
+      Savannah_13: 3462011067524664172
+      Savannah_14: -6649456852953848958
+      Savannah_15: 8859656975184596682
+      Savannah_16: -5169920194667902483
+      Savannah_2: 9123481406774530556
+      Savannah_3: 6040023942920514084
+      Savannah_4: -7336364373929534114
+      Savannah_5: -9000638806767441765
+      Savannah_6: 3362902455601815561
+      Savannah_7: -123181514382629562
+      Savannah_8: 2635882703316673172
+      Savannah_9: -1937619371667178805
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

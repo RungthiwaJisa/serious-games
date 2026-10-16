@@ -1,0 +1,559 @@
+fileFormatVersion: 2
+guid: df7f2e340257c1e4c81d5dddc2d18981
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1892516122758723178
+    second: Scrub Forest_0
+  - first:
+      213: 9179766597952042609
+    second: Scrub Forest_1
+  - first:
+      213: 6889508750906461882
+    second: Scrub Forest_2
+  - first:
+      213: -7970970162377201570
+    second: Scrub Forest_3
+  - first:
+      213: 2471163551494529866
+    second: Scrub Forest_4
+  - first:
+      213: -3486229079720896170
+    second: Scrub Forest_5
+  - first:
+      213: -114848189384747495
+    second: Scrub Forest_6
+  - first:
+      213: -5730144023138052172
+    second: Scrub Forest_7
+  - first:
+      213: 1744779160474462857
+    second: Scrub Forest_8
+  - first:
+      213: 8054588745861974857
+    second: Scrub Forest_9
+  - first:
+      213: 7077122892434184124
+    second: Scrub Forest_10
+  - first:
+      213: 1330075073284590398
+    second: Scrub Forest_11
+  - first:
+      213: -3925929902460836917
+    second: Scrub Forest_12
+  - first:
+      213: 4078500111881073749
+    second: Scrub Forest_13
+  - first:
+      213: 3479365252633095459
+    second: Scrub Forest_14
+  - first:
+      213: -3547690106007481838
+    second: Scrub Forest_15
+  - first:
+      213: 9036342485685822124
+    second: Scrub Forest_16
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 9
+  spritePivot: {x: 0.5, y: 0.43}
+  spritePixelsToUnits: 365
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Scrub Forest_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1189
+        width: 673
+        height: 329
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69944430d9e6cb5e0800000000000000
+      internalID: -1892516122758723178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scrub Forest_1
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 1191
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1767de79515156f70800000000000000
+      internalID: 9179766597952042609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scrub Forest_2
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 1188
+        width: 305
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abe89bee4b37c9f50800000000000000
+      internalID: 6889508750906461882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scrub Forest_3
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 1178
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e58e44c8edc616190800000000000000
+      internalID: -7970970162377201570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scrub Forest_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1009
+        height: 1170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4369b448265b4220800000000000000
+      internalID: 2471163551494529866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scrub Forest_5
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 193
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65959917f1d6e9fc0800000000000000
+      internalID: -3486229079720896170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scrub Forest_6
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 207
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91610a42e2af76ef0800000000000000
+      internalID: -114848189384747495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scrub Forest_7
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 101
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b7570dde507a70b0800000000000000
+      internalID: -5730144023138052172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scrub Forest_8
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 92
+        width: 27
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98aa597f663b63810800000000000000
+      internalID: 1744779160474462857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scrub Forest_9
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 79
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94b46f01ac5a7cf60800000000000000
+      internalID: 8054588745861974857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scrub Forest_10
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 79
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb7135346cdf63260800000000000000
+      internalID: 7077122892434184124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scrub Forest_11
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 65
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3bcabb6b30657210800000000000000
+      internalID: 1330075073284590398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scrub Forest_12
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 47
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc3ecbedd8b4489c0800000000000000
+      internalID: -3925929902460836917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scrub Forest_13
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 30
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 554ff013e3eb99830800000000000000
+      internalID: 4078500111881073749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scrub Forest_14
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 31
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32d68074340394030800000000000000
+      internalID: 3479365252633095459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scrub Forest_15
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 15
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 212914225a214cec0800000000000000
+      internalID: -3547690106007481838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scrub Forest_16
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 15
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca2e2183d99876d70800000000000000
+      internalID: 9036342485685822124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Scrub Forest_0: -1892516122758723178
+      Scrub Forest_1: 9179766597952042609
+      Scrub Forest_10: 7077122892434184124
+      Scrub Forest_11: 1330075073284590398
+      Scrub Forest_12: -3925929902460836917
+      Scrub Forest_13: 4078500111881073749
+      Scrub Forest_14: 3479365252633095459
+      Scrub Forest_15: -3547690106007481838
+      Scrub Forest_16: 9036342485685822124
+      Scrub Forest_2: 6889508750906461882
+      Scrub Forest_3: -7970970162377201570
+      Scrub Forest_4: 2471163551494529866
+      Scrub Forest_5: -3486229079720896170
+      Scrub Forest_6: -114848189384747495
+      Scrub Forest_7: -5730144023138052172
+      Scrub Forest_8: 1744779160474462857
+      Scrub Forest_9: 8054588745861974857
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
